@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/cured-react-app/static/css/main.1071dc8d.chunk.css",
+    "main.js": "/cured-react-app/static/js/main.ee95f42d.chunk.js",
+    "main.js.map": "/cured-react-app/static/js/main.ee95f42d.chunk.js.map",
+    "runtime-main.js": "/cured-react-app/static/js/runtime-main.5f68a557.js",
+    "runtime-main.js.map": "/cured-react-app/static/js/runtime-main.5f68a557.js.map",
+    "static/js/2.31d85363.chunk.js": "/cured-react-app/static/js/2.31d85363.chunk.js",
+    "static/js/2.31d85363.chunk.js.map": "/cured-react-app/static/js/2.31d85363.chunk.js.map",
+    "index.html": "/cured-react-app/index.html",
+    "precache-manifest.6041ad084e27802a1515322276cbee3b.js": "/cured-react-app/precache-manifest.6041ad084e27802a1515322276cbee3b.js",
+    "service-worker.js": "/cured-react-app/service-worker.js",
+    "static/css/main.1071dc8d.chunk.css.map": "/cured-react-app/static/css/main.1071dc8d.chunk.css.map",
+    "static/js/2.31d85363.chunk.js.LICENSE.txt": "/cured-react-app/static/js/2.31d85363.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f68a557.js",
+    "static/js/2.31d85363.chunk.js",
+    "static/css/main.1071dc8d.chunk.css",
+    "static/js/main.ee95f42d.chunk.js"
+  ]
+}
